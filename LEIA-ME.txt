@@ -1,0 +1,4 @@
+SISTEMA VIAGEM 2.5 PWA
+Publique todos os arquivos juntos em uma hospedagem HTTPS (ex.: GitHub Pages). Abra a URL no Chrome Android e escolha Instalar aplicativo / Adicionar à tela inicial.
+ATENÇÃO: a mudança de content:// para HTTPS cria um armazenamento local novo. Importe o backup JSON anterior. Salve backups periódicos. Não publique arquivos JSON com dados dos participantes.
+A interface de administração é escondida em telas até 700px; isso não constitui autenticação nem segurança de acesso.
